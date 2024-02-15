@@ -1,8 +1,6 @@
 # MoE-SMN-CR
 Robust Bayesian inference for the censored mixture of experts model using heavy-tailed distributions
 
-By: Elham Mirfarah · Mehrdad Naderi · Tsung-I Lin · Wan-Lun Wang
-
 contains 
 Gibbs.MoE.Cr: Gibbs sampling for the family of scale mixture of normal.
 
